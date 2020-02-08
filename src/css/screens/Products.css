@@ -1,0 +1,22 @@
+.card-title {
+  font-size: 25px;
+  color: #f77200;
+  margin: 0;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card-body {
+  padding-top: 2px;
+  background-color: #e8e8e8;
+}
+
+.modal-header {
+  background-color: #ff9336;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
