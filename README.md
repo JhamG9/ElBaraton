@@ -2,7 +2,7 @@ Este proyecto fue construido con Bootstrap y  [Create React App](https://github.
 
 ## Scripts disponibles
 
-En el directorio del proyecto puedes colocar:
+En el directorio del proyecto puede colocar:
 
 ### `yarn start`
 
@@ -11,12 +11,12 @@ Abriendo [http://localhost:3000](http://localhost:3000) en la ventana de su nave
 
 
 ## Instalación 
+Instalar [nodejs](https://nodejs.org/es/) puede descargarlo en su página oficial y continuar con la instalación <br />
+Instalar [yarn](https://classic.yarnpkg.com/es-ES/docs/install)
+Inatalar [ReactJs](https://es.reactjs.org/), descargado nodejs en su equipo, coloque una consola de su equipo `npm install -g create-react-app`, 
 
-En caso de tener no instalado [nodejs](https://nodejs.org/es/) puede descargarlo en su pagina oficial y continuar con la instalación
-Por otro lado debera de instalar [yarn](https://classic.yarnpkg.com/es-ES/docs/install)
+Una vez instalada las 3 dependencias ejecute en el directorio del proyecto `yarn start`, esto deberá de abrir una nueva pestaña de su navegador, para probar la aplicación web "El Baratón"
 
-Una vez instalada los 2 dependencias ejecute en el directorio del proyecto `yarn start`, esto debera de abrir una nueva pestaña de su navegador, para probar la aplicación web  
-
-
+De antemano gracias por ver este proyecto, en caso de tener preguntas la puede colocar en la ventana Issues del repositorio
 ---
 _@JhamG9_
