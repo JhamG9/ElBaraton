@@ -18,5 +18,6 @@ Inatalar [ReactJs](https://es.reactjs.org/), descargado nodejs en su equipo, col
 Una vez instalada las 3 dependencias ejecute en el directorio del proyecto `yarn start`, esto deberá de abrir una nueva pestaña de su navegador, para probar la aplicación web "El Baratón"
 
 De antemano gracias por ver este proyecto, en caso de tener preguntas la puede colocar en la ventana Issues del repositorio
+
 ---
 _@JhamG9_
